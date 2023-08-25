@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rottenapplesalt&label=Profile%20views&color=0e75b6&style=flat" alt="rottenapplesalt" /> </p>
 
-- 📫 How to reach me **jesusplayscraft on discord**
+- 📫 jesusplayscraft on Discord
 
 - ⚡ Fun fact **I suck at coding**
 
