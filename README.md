@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm RottenAppleSalt</h1>
-<h3 align="center">Suffering because Java exists in the same world as me</h3>
+<h3 align="center">Call me Italian the way I make spaghetti</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rottenapplesalt&label=Profile%20views&color=0e75b6&style=flat" alt="rottenapplesalt" /> </p>
 
 - 📫 jesusplayscraft on Discord
-
-- ⚡ Fun fact **I suck at coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
